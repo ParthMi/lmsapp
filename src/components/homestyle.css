@@ -1,0 +1,23 @@
+.searchbar{
+    margin-top: 10px;
+    float:right;
+}
+.searchinput{
+    width:500px;
+    height: 30px;
+}
+.submit-btn{
+    cursor: pointer;
+    width: 80px;
+    border-radius: 15px;
+    height:30px;
+    background-color: black;
+    color: white;
+    margin-left:10px;
+    margin-right:10px;
+}
+.loading{
+    margin-left:42%;
+    margin-top:15%;
+    width:200px
+}
